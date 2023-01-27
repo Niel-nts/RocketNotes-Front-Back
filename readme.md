@@ -14,7 +14,7 @@ Made by Nataniel Souza
 
 ### Preview 
 
-![preview](preview.jpg)
+![preview](/preview.gif)
 
 
 ### Contacts
