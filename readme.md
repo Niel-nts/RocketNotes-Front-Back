@@ -4,11 +4,11 @@ Complete web application (Front and Back) developed in React.js and Node.js, res
 
 Developed in Explorer Trail, preparatory course for Rocketseat web programmer.
 
-NOTE:
-to run the server: Open API-Back in VS code and run the command "npm start" in the terminal;
-To open the application: Open React-front in VS code and run the command "npm run dev" in the terminal;
-Database used: SQLite located at "API-Back\src\database\database.db";
-User ready to see the application running: nielemail@email.com password 1234
+NOTE:</br>
+to run the server: Open API-Back in VS code and run the command "npm start" in the terminal;</br>
+To open the application: Open React-front in VS code and run the command "npm run dev" in the terminal;</br>
+Database used: SQLite located at "API-Back\src\database\database.db";</br>
+User ready to see the application running: nielemail@email.com password 1234</br>
 
 Made by Nataniel Souza
 
